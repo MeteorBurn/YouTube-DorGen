@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Установка
+title: 1. Установка
 ---
 
 1. **Установите шаблон по этой видео инструкции**
@@ -28,5 +28,3 @@ title: Установка
 1. Перенесите куки в формате NetScape в папку «\\YouTube-ReCaptcha\\Cookies\\1_Ready\\»
 
 ![](./install-4.png){width=2003px height=1092px}
-
-
