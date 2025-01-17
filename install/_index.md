@@ -1,10 +1,8 @@
 ---
-order: 1
+order: 1.7
 title: "1. Установка шаблонов "
 ---
 
 #### ↘️ [**Инструкция для ZennoBox**](./zennobox)
 
 #### ↘️ [Инструкция для ZennoPoster](./zennoposter)
-
-
