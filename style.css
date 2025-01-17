@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.css-29fycn .title {
+    overflow: hidden;
+    font-size: 1.3rem;
+    font-weight: 700;
+    white-space: nowrap;
+    text-overflow: clip;
+    color: black;
+}
+
+#custom-style . title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+[data-catalog-card="YouTube-DorGen"] .catalog-title-logo {
+    position: absolute;
+    top: 30%; /* Смещаем картинку выше от центра (измените значение по необходимости) */
+    left: 50%; /* Центрируем по горизонтали */
+    transform: translate(-50%, -50%); /* Сдвигаем элемент так, чтобы центр совпал с точкой позиционирования */
+    height: 3.5rem; /* Размер иконки */
+}
+
+[data-catalog-card="YouTube-DorGen"] .catalog-text-logo {
+    position: relative;
+    top: 2.9rem; /* Смещаем текст вниз относительно картинки */
+    font-family: 'Montserrat', sans-serif; /* Используем шрифт Montserrat */
+    font-size: 1.0rem; /* Настройка размера текста */
+    left: 1rem;
+    line-height: 1.0; /* Межстрочное расстояние */
+    font-weight: 750; /* Жирность текста */
+    text-align: center; /* Центрируем текст */
+    white-space: nowrap; /* Не переносить строки */
+}
+
+[data-catalog-card="YouTube-DorGen"] .catalog-text {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif; /* Используем тот же шрифт для единообразия */
+    font-size: 0.8rem; /* Настройка размера текста для нижнего текста */
+    font-weight: 400; /* Менее жирный нижний текст */
+    margin-top: 4.1rem; /* Убираем лишние отступы */
+    margin-left: 1.5rem; /* Убираем лишние отступы */
+    white-space: nowrap; /* Не переносить строки */
+    text-align: center; /* Центрируем содержимое по горизонтали */
+}
