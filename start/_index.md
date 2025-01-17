@@ -26,5 +26,16 @@ title: ⚡О проекте YouTube-DorGen
 
 6. [**🧡YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) – массовое и автоматическое создание видео
 
-**YouTube-канал:** [**YouTube DorGen Software**](<http://xn--xnxnxnxnxnyoutube-189d-ug6i-nn2n-gu8r-804w -8qia2kqa2a/>)\
-**Сайт:** [**YouTube-DorGen**](https://youtube-dorgen.com/?roistat_visit=1041982)
+
+
+#### **Ссылки:**
+
+1. [**Мой Telegram**](https://t.me/meteorburn)
+
+2. [**Сайт проекта YouTube-DorGen**](https://youtube-dorgen.com)
+
+3. [**Канал на YouTube**](https://www.youtube.com/@dorgen-software) 
+
+4. [**Wiki документация**](https://docs.youtube-dorgen.com)
+
+5. [**Я на ZennoLab**](https://zenno.club/discussion/members/meteorburn.13934/#recent-content)
