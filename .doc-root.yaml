@@ -5,6 +5,9 @@ properties: []
 description: Wiki документация YouTube-DorGen
 versions: []
 relatedLinks:
-  - url: https://t.me/meteorburn
-    title: Telegram Meteorburn
+  - url: https://t.me/Meteorburn
+    title: Telegram
+    icon: telegram-icon
+  - url: https://www.youtube.com/@dorgen-software
+    title: YouTube
     icon: youtube-icon
