@@ -6,9 +6,5 @@ description: Wiki документация YouTube-DorGen
 versions: []
 relatedLinks:
   - url: https://t.me/meteorburn
-    title: tg
-    icon: telegram-icon-mini
-    
-  - url: https://www.youtube.com/@dorgen-software
-    title: YouTube
-    icon: youtube-icon
+    title: Telegram
+    icon: lucide-send
