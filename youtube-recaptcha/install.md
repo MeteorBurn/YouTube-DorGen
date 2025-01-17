@@ -28,3 +28,5 @@ title: Установка
 1. Перенесите куки в формате NetScape в папку «\\YouTube-ReCaptcha\\Cookies\\1_Ready\\»
 
 ![](./install-4.png){width=2003px height=1092px}
+
+
