@@ -3,6 +3,8 @@ order: 9.8
 title: ⚡О проекте YouTube-DorGen
 ---
 
+![](./start.png){width=1980px height=480px}
+
 **YouTube–DorGen** – это проект целью которого является автоматизация рутинных действий и процессов в YouTube, которые встречаются на пути веб-специалистов использующих YouTube для генерации трафика или как источник дохода.
 
 **DorGen Software** – это комплекс программных решений на базе ZennoPoster, которые автоматизируют 90% действий выполняемых пользователем в YouTube.
@@ -24,7 +26,5 @@ title: ⚡О проекте YouTube-DorGen
 
 6. [**🧡YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) – массовое и автоматическое создание видео
 
-**YouTube-канал:** [**YouTube DorGen Software**](<http://xn--xnxnxnyoutube-189d-ug6i-nn2n -8qia2kqa2a/>)\
+**YouTube-канал:** [**YouTube DorGen Software**](<http://xn--xnxnxnxnxnyoutube-189d-ug6i-nn2n-gu8r-804w -8qia2kqa2a/>)\
 **Сайт:** [**YouTube-DorGen**](https://youtube-dorgen.com/?roistat_visit=1041982)
-
-
