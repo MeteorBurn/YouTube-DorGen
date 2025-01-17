@@ -2,5 +2,9 @@ title: YouTube-DorGen
 supportedLanguages: []
 style: red
 properties: []
-description: Wiki документация
+description: Wiki документация YouTube-DorGen
 versions: []
+relatedLinks:
+  - url: https://t.me/meteorburn
+    title: Telegram Meteorburn
+    icon: mail-question
