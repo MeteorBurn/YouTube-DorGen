@@ -1,9 +1,15 @@
 ---
-order: 9.8
+order: 10.3
 title: ⚡О проекте YouTube-DorGen
 ---
 
 ![](./start.png){width=1980px height=480px}
+
+
+
+Меня зовут Дмитрий и я в
+
+
 
 **YouTube–DorGen** – это проект целью которого является автоматизация рутинных действий и процессов в YouTube, которые встречаются на пути веб-специалистов использующих YouTube для генерации трафика или как источник дохода.
 
@@ -28,13 +34,15 @@ title: ⚡О проекте YouTube-DorGen
 
 
 
+
+
 #### **Ссылки:**
 
 1. [**Мой Telegram**](https://t.me/meteorburn)
 
 2. [**Сайт проекта YouTube-DorGen**](https://youtube-dorgen.com)
 
-3. [**Канал на YouTube**](https://www.youtube.com/@dorgen-software) 
+3. [**Канал на YouTube**](https://www.youtube.com/@dorgen-software)
 
 4. [**Wiki документация**](https://docs.youtube-dorgen.com)
 
