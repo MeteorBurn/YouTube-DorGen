@@ -25,7 +25,7 @@ title: ❤️О проекте YouTube-DorGen
 
 5. [**💙YouTube-Poster**](https://zennolab.com/discussion/threads/youtube-socializer-v2-5-9-razgon-socialnyx-faktorov-youtube.53139) – постинг комментариев и лайков к видео, комментариям и публикациям каналов
 
-6. [**🧡YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) – массовое и автоматическое создание видео
+6. [**🧡YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) –  автоматическое создание видео c озвучкой на нескольких языках
 
 #### **Ссылки:**
 
