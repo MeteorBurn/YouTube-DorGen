@@ -37,4 +37,4 @@ title: ❤️О проекте YouTube-DorGen
 
 4. [**Wiki документация**](https://docs.youtube-dorgen.com)
 
-5. [**Я на ZennoLab**](https://zenno.club/discussion/members/meteorburn.13934/#recent-content)
+5. [**Мой профиль на ZennoLab**](https://zenno.club/discussion/members/meteorburn.13934/#recent-content)
