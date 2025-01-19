@@ -1,6 +1,6 @@
 ---
 order: 10.3
-title: ⚡О проекте YouTube-DorGen
+title: ❤️О проекте YouTube-DorGen
 ---
 
 Меня звать Дмитрий, но больше я известен под ником **Meteorburn.**
