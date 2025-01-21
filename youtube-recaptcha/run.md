@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 3. Запуск
+title: 3️⃣Запуск
 ---
 
 1️⃣ **Запустите шаблон в соответствии с инструкцией:** [**Запуск шаблонов**](https://docs.youtube-dorgen.com/installation/start)
