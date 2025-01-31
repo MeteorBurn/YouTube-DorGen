@@ -1,6 +1,7 @@
 title: YT Dorgen Docs
 logo: ./icons/youtube-tutorials.svg
-supportedLanguages: []
+supportedLanguages:
+  - ru
 style: red
 properties: []
 description: Wiki Документация
@@ -12,3 +13,4 @@ relatedLinks:
   - url: https://www.youtube.com/@dorgen-software
     title: YouTube
     icon: youtube-icon
+language: ru
