@@ -1,6 +1,6 @@
 ---
 order: 8.5
-title: 🧡YOUTUBE-MANAGER
+title: 🧡 YOUTUBE-MANAGER
 ---
 
 [view:hierarchy=none::::List]

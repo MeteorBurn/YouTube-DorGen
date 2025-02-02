@@ -1,6 +1,6 @@
 ---
 order: 6
-title: ❤️YOUTUBE-UPLOADER
+title: ❤️ YOUTUBE-UPLOADER
 ---
 
 **YouTube-Uploader** -- это шаблон на ZennoPoster для автоматизированной многопоточной загрузки видео в YouTube, разработанный для WEB-мастеров, SEO-специалистов и людей близких к серому контенту и условно бесплатному трафику.
