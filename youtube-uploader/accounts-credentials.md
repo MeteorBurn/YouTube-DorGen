@@ -73,4 +73,4 @@ title: 🚹Добавление аккаунтов
 
 ⬇️**Скачать образец Менеджера аккаунтов ⇾**[\[Accounts\].xlsx](./[Accounts].xlsx)
 
-![](./akkaunty.png){width=2303px height=649px}
+![](./accounts-credentials.png){width=2303px height=649px}
