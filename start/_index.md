@@ -1,8 +1,8 @@
 ---
-order: 0.9
-title: 🏁Начало
+order: 0.6
+title: Начало
 ---
 
-[view:::::List]
+[view:hierarchy=none::::List]
 
 
