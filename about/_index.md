@@ -22,11 +22,3 @@ title: 💡О проекте
 💙 [**YouTube-Poster**](https://zenno.club/discussion/threads/youtube-poster-v5-1-0-posting-kommentariev-i-lajkov-v-youtube.53139/) – масспостинг и масслайккинг видео, комментариев, постов в YouTube
 
 🧡 [**YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) – автоматическое создание видео для загрузки в YouTube
-
-#### Ссылки
-
--  [**Мой Telegram**](https://t.me/meteorburn)
-
--  [**Мой профиль на ZennoLab**](https://zenno.club/discussion/members/meteorburn.13934/#recent-content)
-
--  [**Канал на YouTube**](https://www.youtube.com/@dorgen-software)
