@@ -30,5 +30,3 @@ title: 💡О проекте
 -  [**Мой профиль на ZennoLab**](https://zenno.club/discussion/members/meteorburn.13934/#recent-content)
 
 -  [**Канал на YouTube**](https://www.youtube.com/@dorgen-software)
-
-Меню:
