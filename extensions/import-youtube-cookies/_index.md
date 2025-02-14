@@ -19,9 +19,9 @@ title: 🍪 Импорт сookies из браузера
 
 2. Перенесите cookies-файлы в папку «..\\\\\[Config\]\\\\cookies\\\\», которая находится в директории проекта целевого шаблона.
 
-![](./import-youtube-cookies.png){width=1380px height=692px}
+![](./_index.png){width=1380px height=692px}
 
-![](./import-youtube-cookies-2.png){width=1200px height=327px}
+![](./_index-2.png){width=1200px height=327px}
 
 
 
@@ -29,10 +29,10 @@ title: 🍪 Импорт сookies из браузера
 
 2. В поле «Пароль» укажите значение «netscape» для каждого импортированного названия cookies-файла в таблицу с аккаунтами.
 
-   ![](./import-youtube-cookies-3.png){width=1200px height=915px}
+   ![](./_index-3.png){width=1200px height=915px}
 
-![](./import-youtube-cookies-4.png){width=1200px height=775px}
+![](./_index-4.png){width=1200px height=775px}
 
 Если всё было сделано правильно, то шаблон включит режим работы с cookies и войдёт в аккаунты без авторизации.
 
-![](./import-youtube-cookies-5.png){width=1200px height=341px}
+![](./_index-5.png){width=1200px height=341px}
