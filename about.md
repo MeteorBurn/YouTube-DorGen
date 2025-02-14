@@ -19,7 +19,7 @@ title: 💻О проекте
 
 💚[**YouTube-Manager**](https://zennolab.com/discussion/threads/youtube-manager-v3-3-0-udobnoe-upravlenie-mnozhestvom-kanalov-youtube.45226) – пакетное заполнение и изменение настроек каналов
 
-💙[**YouTube-Poster**](https://zennolab.com/discussion/threads/youtube-socializer-v2-5-9-razgon-socialnyx-faktorov-youtube.53139) – масспостинг и масслайккинг видео, комментариев, постов в YouTube
+💙[**YouTube-Poster**](https://zenno.club/discussion/threads/youtube-poster-v5-1-0-posting-kommentariev-i-lajkov-v-youtube.53139/) – масспостинг и масслайккинг видео, комментариев, постов в YouTube
 
 🧡[**YouTube-Generator**](https://zenno.club/discussion/threads/youtube-generator-v1-4-5-generacija-kontenta-dlja-youtube-bez-navykov-montazha.60726/) – автоматическое создание видео для загрузки в YouTube
 
