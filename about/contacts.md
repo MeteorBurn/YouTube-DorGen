@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 🔹Контакты
+title: Контакты
 ---
 
 -  [**Мой Telegram**](https://t.me/meteorburn)
