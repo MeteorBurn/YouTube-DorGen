@@ -5,7 +5,7 @@ title: 🟥Меню
 
 [🛠️ Установка](./../install/_index)
 
-[🚺 Аккаунты](./../important/_index)
+🅰️ [Аккаунты](./../accounts/_index)
 
 ❤️ [YouTube-Uploader](./../youtube-uploader/_index)
 
