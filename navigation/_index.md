@@ -23,6 +23,4 @@ title: ☑️Меню
 
 -  [Контакты](./../about/contacts)
 
-[google4d435a5e90956337.html](./google4d435a5e90956337.html)
-
 
