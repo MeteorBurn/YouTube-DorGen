@@ -1,10 +1,10 @@
-title: Документация
+title: YouTube-DorGen Docs
 logo: ./icons/youtube-tutorials.svg
 supportedLanguages:
   - ru
 style: red
 properties: []
-description: Wiki Документация
+description: Документация к шаблонам YouTube-DorGen
 versions: []
 relatedLinks:
   - url: https://t.me/meteorburn
