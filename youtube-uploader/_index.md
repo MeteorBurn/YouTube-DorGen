@@ -39,7 +39,7 @@ YouTube-Uploader позволяет **массово загружать виде
 
 **-- Трафферам**, тестирующим вертикальные #shorts и нишевые форматы.
 
-[video:https://youtu.be/wxa3QLhWv58:]
+[video:https://youtu.be/wxa3QLhWv58]
 
 :::info:true Весь список возможностей
 

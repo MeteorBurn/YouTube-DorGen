@@ -2,6 +2,7 @@ title: YouTube-DorGen Docs
 logo: ./icons/youtube-tutorials.svg
 supportedLanguages:
   - ru
+  - en
 style: red
 properties: []
 description: Документация к шаблонам YouTube-DorGen
